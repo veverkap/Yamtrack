@@ -1,0 +1,16 @@
+{
+  "movie_results": [
+    {
+      "id": 603,
+      "title": "The Matrix",
+      "original_title": "The Matrix"
+    }
+  ],
+  "tv_results": [
+    {
+      "id": 1396,
+      "name": "Breaking Bad",
+      "original_name": "Breaking Bad"
+    }
+  ]
+}

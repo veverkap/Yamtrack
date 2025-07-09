@@ -1,7 +1,7 @@
 import logging
 from collections import defaultdict
 
-from cinemagoer import IMDb
+from imdb import IMDb
 from django.apps import apps
 from django.conf import settings
 from django.utils import timezone

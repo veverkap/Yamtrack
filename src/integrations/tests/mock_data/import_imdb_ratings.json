@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Inception",
+    "movieID": "1375666",
+    "kind": "movie",
+    "year": 2010,
+    "rating": 9
+  },
+  {
+    "title": "The Sopranos",
+    "movieID": "0141842",
+    "kind": "tv series", 
+    "year": 1999,
+    "rating": 8
+  },
+  {
+    "title": "Pulp Fiction",
+    "movieID": "0110912",
+    "kind": "movie",
+    "year": 1994,
+    "rating": 10
+  }
+]
