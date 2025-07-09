@@ -221,7 +221,7 @@ def import_imdb(request):
 
     if frequency == "once":
         tasks.import_imdb.delay(
-            imdb_user_id=user_id, user_id=request.user.id, mode=mode
+            imdb_user_id=user_id, user_id=request.user.id, mode=mode,
         )
         messages.info(request, "The task to import media from IMDB has been queued.")
     else:
